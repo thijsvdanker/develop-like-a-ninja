@@ -6,5 +6,7 @@
 * XDebug
 * Vagrant (VDD & Druphpet)
 * Docker?
+* Reveal.js
+* Multi-threaded migrate (Drupal)
 
 
