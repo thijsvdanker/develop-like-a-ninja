@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Develop like a ninja",
+    "packageVersion": "0.0.0",
+    "useSass": true,
+    "deployToGithubPages": true,
+    "githubUsername": "thijsvdanker",
+    "githubRepository": "develop-like-a-ninja"
+  }
+}
