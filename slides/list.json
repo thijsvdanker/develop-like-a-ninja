@@ -1,4 +1,8 @@
 [
     "index.md",
-    "intro.md"
+    [
+    	"intro.md",
+    	"topic-list.md"
+    ],
+    "about-this-ninja.md"
 ]
